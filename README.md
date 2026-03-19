@@ -1,7 +1,4 @@
 # NutRL
-<!DOCTYPE html>
-<html>
-<head>
     <title>Site de Nutrição</title>
 </head>
 <body>
